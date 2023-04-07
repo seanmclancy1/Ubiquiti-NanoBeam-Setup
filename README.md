@@ -90,6 +90,7 @@ https://dl.ubnt.com/qsg/NBE-5AC-Gen2/NBE-5AC-Gen2_EN.html
 <br/>
 •Leave the access point plugged into the switch and plug your next Nanobeam into a new port the same way as the first.<br/>
 •Go to SSID once normal changes are made (DO NOT select access point), find the first point to point that was marked as Access Point, then LOCK TO AP. Apply changes.
+<br/> 
 •Before changing the second AP to DHCP go to Dashboard and wait to see if the 2 devices have connected to eachother .
 <br/>
 <img src="https://i.imgur.com/33xfe2J.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
