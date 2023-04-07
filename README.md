@@ -39,12 +39,12 @@ https://dl.ubnt.com/qsg/NBE-5AC-Gen2/NBE-5AC-Gen2_EN.html
 <br/>
 <br/>
 <br/>
-•	You need to hop on your Unifi portal and see what clients are connected to your network. Find the MAC address of the Nanobeam on your client list to find it's IP address. The default for Nanobeam is 192.168.1.20 <br/>
+•	You need to hop on your Unifi portal and see what clients are connected to your network. Find the MAC address of the Nanobeam on your client list to find it's IP address. The default for Nanobeam is 192.168.1.20 (If you are not using the Unifi portal you can use Advanced IP Scanner to accomplish the same goal)<br/>
 <img src="https://i.imgur.com/8wM4rz5.png" height="80%" width="80%" alt="Disk Sanitization Steps"/
 <br/>
 <br/>
 <br/>
-•	Now we need to change the IP of our computer to match that range. Go to Settings -> Network and Internet -> Ethernet -> Change Adapter Options <br/>
+•Now we need to change the IP of our computer to match that range. Go to Settings -> Network and Internet -> Ethernet -> Change Adapter Options <br/>
 •Double click the Ethernet Adapter, Click properties, Double click Internet Protocol Version 4, change your IP range to match the address given by the point-to-point device (DON’T FORGET TO CHANGE YOUR IP BACK TO AUTOMATIC WHEN DONE) 
 <br/>
 <br/>
