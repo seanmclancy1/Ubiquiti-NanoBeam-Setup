@@ -1,4 +1,4 @@
-# Setup a Ubiquiti-NanoBeam-Setup
+# Setup a Ubiquiti NanoBeam
 NanoBeam "Point to Point" Walkthrough | Ubiquiti
 <h2>Description</h2>
 Our company uses Ubiquiti products for many different jobs. We like to use NanoBeams as a wireless bridge that can go as far as 9.3 miles with proper line of sight. Using these "point to point" devices we are able to allow security systems to communicate between cameras without the need for any wires. 
