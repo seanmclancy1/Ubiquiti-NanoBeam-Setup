@@ -70,7 +70,7 @@ https://dl.ubnt.com/qsg/NBE-5AC-Gen2/NBE-5AC-Gen2_EN.html
 <br/>
 <br/>
 <br/>
-•	As soon as you know what the device name is, label the phsycial Nanobeam. This will make installation and troubleshooting easy for the techs and future network admins <br/>
+•	As soon as you know what the device name is, label the physical Nanobeam. This will make installation and troubleshooting easy for the techs and future network admins <br/>
 <img src="https://i.imgur.com/OYbsUFj.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br/>
 <img src="https://i.imgur.com/ESX9IPa.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
